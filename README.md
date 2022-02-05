@@ -1,7 +1,7 @@
 # ANALYSE-project
 
 This repository contains a project technically analysed by four group members (Yacine MAMLOUK, Simon LERUTH, Jalil ECHAMS, and myself)
-The project consists of plateform that combines library and social newtwork
+The project consists of plateform [lectureEsi] that combines library and social newtwork
 Differents actors are highlighted. Such as author, member (user) and platform administration.
 
 ## Process
