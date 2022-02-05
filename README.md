@@ -1,6 +1,7 @@
 # ANALYSE-project
 
-This repository contains a tachnical analysed project. The project consists of an online plateform that stands as a library. 
+This repository contains a project technically analysed
+The project consists of an online plateform that stands as a library
 Differents actors are highlighted. Such as author, member (user) and platform administration.
 
 ## Process
