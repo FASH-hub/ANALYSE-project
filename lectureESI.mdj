@@ -1,7 +1,7 @@
 {
 	"_type": "Project",
 	"_id": "AAAAAAFF+h6SjaM2Hec=",
-	"name": "LECTURE ESI",
+	"name": "LectureESI",
 	"ownedElements": [
 		{
 			"_type": "UMLModel",
@@ -18156,7 +18156,7 @@
 																"$ref": "AAAAAAF9fLmnH9XAjeA="
 															},
 															"font": "Arial;13;0",
-															"left": 66.58642578125,
+															"left": 22.55908203125,
 															"top": 5,
 															"width": 230.24560546875,
 															"height": 13,
@@ -18171,9 +18171,9 @@
 															"font": "Arial;13;1",
 															"left": 5,
 															"top": 5,
-															"width": 56.58642578125,
+															"width": 12.55908203125,
 															"height": 13,
-															"text": "interaction"
+															"text": "sd"
 														}
 													],
 													"font": "Arial;13;0",
@@ -20748,7 +20748,7 @@
 													"font": "Arial;13;0",
 													"left": 420.5,
 													"top": 452.5,
-													"width": 212,
+													"width": 212.9599609375,
 													"height": 25,
 													"stereotypeLabel": {
 														"$ref": "AAAAAAF9fLmnINZk+DU="
@@ -21227,7 +21227,7 @@
 													"font": "Arial;13;0",
 													"left": 437.5,
 													"top": 300.5,
-													"width": 181,
+													"width": 181.18994140625,
 													"height": 25,
 													"stereotypeLabel": {
 														"$ref": "AAAAAAF9fLmnINZ7B50="
@@ -31196,7 +31196,7 @@
 																		"$ref": "AAAAAAF9fPE1zkMhuZM="
 																	},
 																	"font": "Arial;13;0",
-																	"left": 66.58642578125,
+																	"left": 22.55908203125,
 																	"top": 5,
 																	"width": 233.15283203125,
 																	"height": 13,
@@ -31211,9 +31211,9 @@
 																	"font": "Arial;13;1",
 																	"left": 5,
 																	"top": 5,
-																	"width": 56.58642578125,
+																	"width": 12.55908203125,
 																	"height": 13,
-																	"text": "interaction"
+																	"text": "sd"
 																}
 															],
 															"font": "Arial;13;0",
@@ -72194,9 +72194,9 @@
 														"$ref": "AAAAAAF9ugmqw0P7C80="
 													},
 													"font": "Arial;13;0",
-													"left": 66.58642578125,
+													"left": 24.72998046875,
 													"top": 5,
-													"width": 175.37646484375,
+													"width": 193.91796875,
 													"height": 13,
 													"text": "Séquences UCR104 - GérerProfil"
 												},
@@ -72209,9 +72209,9 @@
 													"font": "Arial;13;1",
 													"left": 5,
 													"top": 5,
-													"width": 56.58642578125,
+													"width": 14.72998046875,
 													"height": 13,
-													"text": "interaction"
+													"text": "sd"
 												}
 											],
 											"font": "Arial;13;0",
@@ -72835,9 +72835,9 @@
 														"$ref": "AAAAAAF9uhVJ52WYYlU="
 													},
 													"font": "Arial;13;0",
-													"left": 39.99365234375,
+													"left": 40.72998046875,
 													"top": 285,
-													"width": 179.34375,
+													"width": 190.998046875,
 													"height": 13,
 													"text": "Désactiver - Modifier - Promotion"
 												},
@@ -72850,7 +72850,7 @@
 													"font": "Arial;13;1",
 													"left": 21,
 													"top": 285,
-													"width": 13.99365234375,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "alt"
 												},
@@ -72883,7 +72883,7 @@
 																	"font": "Arial;13;0",
 																	"left": 36,
 																	"top": 318,
-																	"width": 64.23828125,
+																	"width": 68.630859375,
 																	"height": 13,
 																	"text": "[Désactiver]"
 																}
@@ -72916,7 +72916,7 @@
 																	"font": "Arial;13;0",
 																	"left": 36,
 																	"top": 480,
-																	"width": 54.869140625,
+																	"width": 53.4599609375,
 																	"height": 13,
 																	"text": "[Modifier]"
 																}
@@ -72949,7 +72949,7 @@
 																	"font": "Arial;13;0",
 																	"left": 36,
 																	"top": 944,
-																	"width": 63.552734375,
+																	"width": 66.47265625,
 																	"height": 13,
 																	"text": "[Promotion]"
 																}
@@ -73574,7 +73574,7 @@
 														"$ref": "AAAAAAF9uhlEAWYBbvo="
 													},
 													"edgePosition": 1,
-													"text": "7 : désactiverMembre()"
+													"text": "7 : désactiverMembre():boolean"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -73685,7 +73685,7 @@
 														"$ref": "AAAAAAF9xWhyZhn0EuU="
 													},
 													"edgePosition": 1,
-													"text": "8 : désactiverMembre()"
+													"text": "8 : désactiverMembre():boolean"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -76813,9 +76813,9 @@
 														"$ref": "AAAAAAF9oBsaR4VnIMs="
 													},
 													"font": "Arial;13;0",
-													"left": 66.58642578125,
+													"left": 24.72998046875,
 													"top": 5,
-													"width": 199.9228515625,
+													"width": 221.38427734375,
 													"height": 13,
 													"text": "Séquences UCR101 - GérerCollection"
 												},
@@ -76828,9 +76828,9 @@
 													"font": "Arial;13;1",
 													"left": 5,
 													"top": 5,
-													"width": 56.58642578125,
+													"width": 14.72998046875,
 													"height": 13,
-													"text": "interaction"
+													"text": "sd"
 												}
 											],
 											"font": "Arial;13;0",
@@ -80725,6 +80725,39 @@
 									"name": "Séquences UCR103 - MettreAJourSite",
 									"ownedViews": [
 										{
+											"_type": "UMLInteractionOperandView",
+											"_id": "AAAAAAF9upAcpy1nY9k=",
+											"_parent": {
+												"$ref": "AAAAAAF9upAcli1b19Q="
+											},
+											"model": {
+												"$ref": "AAAAAAF9upAcli1X+fU="
+											},
+											"subViews": [
+												{
+													"_type": "LabelView",
+													"_id": "AAAAAAF9upAcpy1oylM=",
+													"_parent": {
+														"$ref": "AAAAAAF9upAcpy1nY9k="
+													},
+													"font": "Arial;13;0",
+													"left": 52,
+													"top": 150,
+													"width": 80.21533203125,
+													"height": 13,
+													"text": "[Ajout Edition]"
+												}
+											],
+											"font": "Arial;13;0",
+											"left": 32,
+											"top": 135,
+											"width": 1712,
+											"height": 474,
+											"guardLabel": {
+												"$ref": "AAAAAAF9upAcpy1oylM="
+											}
+										},
+										{
 											"_type": "UMLCombinedFragmentView",
 											"_id": "AAAAAAF9w7qZQTu+ogw=",
 											"_parent": {
@@ -80741,9 +80774,9 @@
 														"$ref": "AAAAAAF9w7qZQTu+ogw="
 													},
 													"font": "Arial;13;0",
-													"left": 762.11181640625,
+													"left": 763.578125,
 													"top": 133,
-													"width": 110.7509765625,
+													"width": 118.74267578125,
 													"height": 13,
 													"text": "ParcourirFichiersME"
 												},
@@ -80756,7 +80789,7 @@
 													"font": "Arial;13;1",
 													"left": 733,
 													"top": 133,
-													"width": 24.11181640625,
+													"width": 25.578125,
 													"height": 13,
 													"text": "loop"
 												},
@@ -80842,9 +80875,9 @@
 														"$ref": "AAAAAAF9ujz1inwc0m0="
 													},
 													"font": "Arial;13;0",
-													"left": 74.58642578125,
+													"left": 32.72998046875,
 													"top": 5,
-													"width": 202.830078125,
+													"width": 224.2724609375,
 													"height": 13,
 													"text": "Séquences UCR103 - MettreAJourSite"
 												},
@@ -80857,9 +80890,9 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 5,
-													"width": 56.58642578125,
+													"width": 14.72998046875,
 													"height": 13,
-													"text": "interaction"
+													"text": "sd"
 												}
 											],
 											"font": "Arial;13;0",
@@ -82365,9 +82398,9 @@
 														"$ref": "AAAAAAF9upAcli1YVzQ="
 													},
 													"font": "Arial;13;0",
-													"left": 55.99365234375,
+													"left": 56.72998046875,
 													"top": 117,
-													"width": 184.77734375,
+													"width": 194.64794921875,
 													"height": 13,
 													"text": "AjoutEdition - Mettre A Jour Liens"
 												},
@@ -82380,7 +82413,7 @@
 													"font": "Arial;13;1",
 													"left": 37,
 													"top": 117,
-													"width": 13.99365234375,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "alt"
 												},
@@ -82413,7 +82446,7 @@
 																	"font": "Arial;13;0",
 																	"left": 52,
 																	"top": 150,
-																	"width": 79.79638671875,
+																	"width": 80.21533203125,
 																	"height": 13,
 																	"text": "[Ajout Edition]"
 																}
@@ -82446,7 +82479,7 @@
 																	"font": "Arial;13;0",
 																	"left": 52,
 																	"top": 624,
-																	"width": 110.10009765625,
+																	"width": 118.498046875,
 																	"height": 13,
 																	"text": "[Mettre à Jour Liens]"
 																}
@@ -82513,9 +82546,9 @@
 														"$ref": "AAAAAAF9urehA0zQ9Tg="
 													},
 													"font": "Arial;13;0",
-													"left": 826.11181640625,
+													"left": 827.578125,
 													"top": 629,
-													"width": 110.7509765625,
+													"width": 118.03173828125,
 													"height": 13,
 													"text": "parcourirFichierCSV"
 												},
@@ -82528,7 +82561,7 @@
 													"font": "Arial;13;1",
 													"left": 797,
 													"top": 629,
-													"width": 24.11181640625,
+													"width": 25.578125,
 													"height": 13,
 													"text": "loop"
 												},
@@ -84662,9 +84695,9 @@
 														"$ref": "AAAAAAF9x6CEGEllIbM="
 													},
 													"font": "Arial;13;0",
-													"left": 66.58642578125,
+													"left": 24.72998046875,
 													"top": 5,
-													"width": 213.671875,
+													"width": 238.02783203125,
 													"height": 13,
 													"text": "Séquences UCR106 - GestionConnexion"
 												},
@@ -84677,9 +84710,9 @@
 													"font": "Arial;13;1",
 													"left": 5,
 													"top": 5,
-													"width": 56.58642578125,
+													"width": 14.72998046875,
 													"height": 13,
-													"text": "interaction"
+													"text": "sd"
 												}
 											],
 											"font": "Arial;13;0",
@@ -85063,9 +85096,9 @@
 														"$ref": "AAAAAAF9x6CEGUl9G70="
 													},
 													"font": "Arial;13;0",
-													"left": 31.99365234375,
+													"left": 32.72998046875,
 													"top": 165,
-													"width": 125.20458984375,
+													"width": 133.9580078125,
 													"height": 13,
 													"text": "Inscription - Connexion"
 												},
@@ -85078,7 +85111,7 @@
 													"font": "Arial;13;1",
 													"left": 13,
 													"top": 165,
-													"width": 13.99365234375,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "alt"
 												},
@@ -85111,7 +85144,7 @@
 																	"font": "Arial;13;0",
 																	"left": 28,
 																	"top": 198,
-																	"width": 64.98095703125,
+																	"width": 66.47265625,
 																	"height": 13,
 																	"text": "[Inscription]"
 																}
@@ -85144,7 +85177,7 @@
 																	"font": "Arial;13;0",
 																	"left": 28,
 																	"top": 840,
-																	"width": 65.7109375,
+																	"width": 69.3798828125,
 																	"height": 13,
 																	"text": "[Connexion]"
 																}
@@ -86325,7 +86358,7 @@
 														"$ref": "AAAAAAF9x6Ttek+QNhk="
 													},
 													"edgePosition": 1,
-													"text": "11 : existeMembre(m: Membre)"
+													"text": "11 : existeMembre(m: Membre):boolean"
 												},
 												{
 													"_type": "EdgeLabelView",
@@ -86647,9 +86680,9 @@
 														"$ref": "AAAAAAF9x6CEGknfW5M="
 													},
 													"font": "Arial;13;0",
-													"left": 95.99365234375,
+													"left": 96.72998046875,
 													"top": 341,
-													"width": 201.3447265625,
+													"width": 223.5869140625,
 													"height": 13,
 													"text": "Vérification de la syntaxe des données"
 												},
@@ -86662,7 +86695,7 @@
 													"font": "Arial;13;1",
 													"left": 77,
 													"top": 341,
-													"width": 13.99365234375,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "alt"
 												},
@@ -86695,7 +86728,7 @@
 																	"font": "Arial;13;0",
 																	"left": 92,
 																	"top": 374,
-																	"width": 105.751953125,
+																	"width": 114.88623046875,
 																	"height": 13,
 																	"text": "[Syntaxe incorrecte]"
 																}
@@ -86728,7 +86761,7 @@
 																	"font": "Arial;13;0",
 																	"left": 92,
 																	"top": 464,
-																	"width": 95.64013671875,
+																	"width": 104.76806640625,
 																	"height": 13,
 																	"text": "[Syntaxe correcte]"
 																}
@@ -86782,9 +86815,9 @@
 														"$ref": "AAAAAAF9x6CEGknuJIM="
 													},
 													"font": "Arial;13;0",
-													"left": 1087.99365234375,
+													"left": 1088.72998046875,
 													"top": 493,
-													"width": 112.53466796875,
+													"width": 125.28076171875,
 													"height": 13,
 													"text": "Membre existe déjà ?"
 												},
@@ -86797,7 +86830,7 @@
 													"font": "Arial;13;1",
 													"left": 1069,
 													"top": 493,
-													"width": 13.99365234375,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "alt"
 												},
@@ -86830,7 +86863,7 @@
 																	"font": "Arial;13;0",
 																	"left": 1084,
 																	"top": 526,
-																	"width": 25.27001953125,
+																	"width": 24.57177734375,
 																	"height": 13,
 																	"text": "[oui]"
 																}
@@ -86863,7 +86896,7 @@
 																	"font": "Arial;13;0",
 																	"left": 1084,
 																	"top": 648,
-																	"width": 28.158203125,
+																	"width": 28.91357421875,
 																	"height": 13,
 																	"text": "[non]"
 																}
@@ -86917,9 +86950,9 @@
 														"$ref": "AAAAAAF9x6CEGkn745k="
 													},
 													"font": "Arial;13;0",
-													"left": 1095.99365234375,
+													"left": 1096.72998046875,
 													"top": 885,
-													"width": 147.18017578125,
+													"width": 163.6015625,
 													"height": 13,
 													"text": "Donnée connexion correct ?"
 												},
@@ -86932,7 +86965,7 @@
 													"font": "Arial;13;1",
 													"left": 1077,
 													"top": 885,
-													"width": 13.99365234375,
+													"width": 14.72998046875,
 													"height": 13,
 													"text": "alt"
 												},
@@ -86965,7 +86998,7 @@
 																	"font": "Arial;13;0",
 																	"left": 1092,
 																	"top": 918,
-																	"width": 25.27001953125,
+																	"width": 24.57177734375,
 																	"height": 13,
 																	"text": "[oui]"
 																}
@@ -86998,7 +87031,7 @@
 																	"font": "Arial;13;0",
 																	"left": 1092,
 																	"top": 1016,
-																	"width": 28.158203125,
+																	"width": 28.91357421875,
 																	"height": 13,
 																	"text": "[non]"
 																}
@@ -89507,7 +89540,7 @@
 			]
 		}
 	],
-	"documentation": "# LectureEsi\n\n\n## Auteur\n\n- Léon FASHINGABO - 53854\n\n## Historique\n\n- V1.1 - 15/11/2021 - Création de diagramme de classes : MCD\t  \n\n       - Création de différentes classes, énumérations et data type de model.\n       - Ajout des différentes multiplicités entre les différentes classes de model.\n       - Documentations de chaque classe et chaque énumération utilisée.\n       - Ajout des descriptions pour chaque attribut situé dans les différentes classes.\n       \n- V1.2 - 21/11/2021 - MàJ du MCD et création de diagramme de use case : MCT\n\n\t   - Modification du MCD (quelques classes). \n       - Création de différents acteurs et use case.\n       - Ajout des différentes relations \"include\" et \"extend\".\n       - Documentations de chaque acteur et use case.\n       \n- V1.3 - 27/11/2021 - MàJ du MCT et UC Spécifications/PTFE\n\n\t   - Modification du MCT (quelques acteurs et use cases).\n       - Création de quelques diagrammes d'activité pour certains use cases.\n       - Rédaction de tests fonctionnels pour ces diagrammes d'activité.\n       \n- V1.4 - 04/12/2021 - MTD et MTT\n\n\t   - Mise en place de quelques diagrammes de séquence.\n       - Ébauche de diagramme de classes techniques.\n\n- V1.5 - 14/12/2021 - Fin du MTD/MTT et mise à jour globale du projet\n\n\t   - Mise à jour des diagrammes de séquence.\n       - Mise en place de nouveaux diagrammes de séquence.\n       - Mise en place du diagrammes de classes techniques.\n       - Mise à jour du diagramme de use case.\n       - Mise à jour des diagrammes d'activité et tests fonctionnels (PTFE).\n\t   \t\n## Scope du projet\n\nReprend l'ensemble des données liées à la gestion d'un plateforme de lecture en ligne.\n\n## Hypothèses de travail\n\n-",
+	"documentation": "# LectureEsi\n\n\n## Auteurs\n\nGroupe C112 - Équipe 4 :\n\n- Yacine MAMLOUK - 54147  \n- Simon LERUTH -  55418\n- Jalil ECHAMS -  56486  \n- Léon FASHINGABO - 53854\n\n## Historique\n\n- V1.1 - 15/11/2021 - Création de diagramme de classes : MCD\t  \n\n       - Création de différentes classes, énumérations et data type de model.\n       - Ajout des différentes multiplicités entre les différentes classes de model.\n       - Documentations de chaque classe et chaque énumération utilisée.\n       - Ajout des descriptions pour chaque attribut situé dans les différentes classes.\n       \n- V1.2 - 21/11/2021 - MàJ du MCD et création de diagramme de use case : MCT\n\n\t   - Modification du MCD (quelques classes). \n       - Création de différents acteurs et use case.\n       - Ajout des différentes relations \"include\" et \"extend\".\n       - Documentations de chaque acteur et use case.\n       \n- V1.3 - 27/11/2021 - MàJ du MCT et UC Spécifications/PTFE\n\n\t   - Modification du MCT (quelques acteurs et use cases).\n       - Création de quelques diagrammes d'activité pour certains use cases.\n       - Rédaction de tests fonctionnels pour ces diagrammes d'activité.\n       \n- V1.4 - 04/12/2021 - MTD et MTT\n\n\t   - Mise en place de quelques diagrammes de séquence.\n       - Ébauche de diagramme de classes techniques.\n\n- V1.5 - 14/12/2021 - Fin du MTD/MTT et mise à jour globale du projet\n\n\t   - Mise à jour des diagrammes de séquence.\n       - Mise en place de nouveaux diagrammes de séquence.\n       - Mise en place du diagrammes de classes techniques.\n       - Mise à jour du diagramme de use case.\n       - Mise à jour des diagrammes d'activité et tests fonctionnels (PTFE).\n\t   \t\n## Scope du projet\n\nReprend l'ensemble des données liées à la gestion d'un plateforme de lecture en ligne.\n\n## Hypothèses de travail\n\n-",
 	"company": "ESI",
 	"copyright": "Novembre 2021",
 	"version": "v1.5"
